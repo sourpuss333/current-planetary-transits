@@ -19,7 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'Neptune': 'icons/Neptune.png',
         'Pluto': 'icons/Pluto.png',
         'North Node': 'icons/North_Node.png',
-        'True Node': 'icons/True_Node.png',
         'Chiron': 'icons/Chiron.png',
         'Aries': 'icons/Aries.png',
         'Taurus': 'icons/Taurus.png',
@@ -55,7 +54,6 @@ document.addEventListener('DOMContentLoaded', function() {
             { planet: 'Neptune', sign: 'Pis', position: '14°37\'' },
             { planet: 'Pluto', sign: 'Cap', position: '22°43\'' },
             { planet: 'North Node', sign: 'Leo', position: '09°05\'' },
-            { planet: 'True Node', sign: 'Leo', position: '09°05\'' },
             { planet: 'Chiron', sign: 'Pis', position: '28°33\'' }
         ];
 
